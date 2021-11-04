@@ -1,14 +1,14 @@
 module.exports = {
     app: {
         px: 'XXX',
-        token: 'XXX',
-        playing: 'by Zerio ❤️'
+        token: 'OTA1NjIyNTQ5NTQ1NzYyOTA3.YYMwuQ.XsF8JP5aWMoBfjT78RbYzYItS4c',
+        playing: 'Pavri Ho Rhi Hai 100+'
     },
 
     opt: {
         DJ: {
             enabled: false,
-            roleName: 'DJ',
+            roleName: 'DJ Babu Gana Bajadey',
             commands: ['back', 'clear', 'filter', 'loop', 'pause', 'resume', 'seek', 'shuffle', 'skip', 'stop', 'volume']
         },
         maxVol: 100,
