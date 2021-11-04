@@ -7,7 +7,7 @@ module.exports = {
 
     opt: {
         DJ: {
-            enabled: false,
+            enabled: true,
             roleName: 'DJ Babu Gana Bajadey',
             commands: ['back', 'clear', 'filter', 'loop', 'pause', 'resume', 'seek', 'shuffle', 'skip', 'stop', 'volume']
         },
